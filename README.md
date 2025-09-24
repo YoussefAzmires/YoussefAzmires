@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Youssef 👋
 
-<!--
-**YoussefAzmires/YoussefAzmires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a passionate Computer Science student who loves building apps and exploring new technologies. Whether it's mobile, web, or desktop, I enjoy creating smooth, efficient, and user-friendly applications.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: College exclusive meetup app
+- 🌱 Learning: React native
+- 💬 Ask me about: App development, algorithms, UI/UX design
+- 📫 How to reach me: Linkedin : Youssef Azmires
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🛠️ Technologies & Tools
+- Programming Languages: JavaScript, Python, Java, C#, 
+- Frameworks: React, React Native, Flutter, Node.js
+- Databases: MongoDB, Firebase, POSTGRES
+- Tools: Git, Docker, VSCode, Figma
+
+
+
+Thanks for stopping by! Feel free to connect with me or check out my projects. 🚀
+
+---
+
+Made with ❤️ by Youssef
+
