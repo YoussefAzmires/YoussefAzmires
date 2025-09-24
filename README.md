@@ -22,5 +22,5 @@ Thanks for stopping by! Feel free to connect with me or check out my projects. �
 
 ---
 
-Made with ❤️ by Youssef
+Made with ❤️ by Sef
 
